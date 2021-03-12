@@ -1,0 +1,20 @@
+{
+    "win": {
+        "translation": "Win!"
+    },
+    "tie": {
+        "translation": "Tie"
+    },
+    "tko": {
+        "translation": "TKO"
+    },
+    "play_by_play": {
+        "translation": "Play by play"
+    },
+    "hello": {
+        "translation": "Hellooo"
+    },
+    "greeting": {
+        "translation": "Hi {{name}}"
+    }
+}
