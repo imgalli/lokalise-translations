@@ -1,0 +1,13 @@
+phrase:
+  access_token: 1e8f9b9c1a523d3a8c71dfb945c19beb0b0930e56bef86996f186cf251aa3dbf
+  project_id: e62d39aa9bca10b8ed8a27105d5ba051
+  push:
+    sources:
+    - file: ./translations/**/*.json
+      params:
+        file_format: i18next
+  pull:
+    targets:
+    - file: ./translations/**/*.json
+      params:
+        file_format: i18next
