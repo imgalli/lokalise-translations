@@ -1,0 +1,8 @@
+{
+  "win": "Win!",
+  "tie": "Tie",
+  "tko": "TKO",
+  "play_by_play": "Play by play",
+  "hello": "Hellooo",
+  "greeting": "Hi {{name}}"
+}
